@@ -1,0 +1,19 @@
+# Microsoft Excel temporary and lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.xlsx.tmp
+
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+.DS_Store
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
